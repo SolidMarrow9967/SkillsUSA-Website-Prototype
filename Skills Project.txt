@@ -13,3 +13,71 @@ Code Features:
  - Accounts
  - Custom Groups
  - Notifications
+
+
+Pages:
+ - Home
+    - Welcome message and quick overview of your chapter
+    - Featured announcements or upcoming events
+    - “Join Us” or “Login” buttons
+ - About Us
+    - Chapter mission, officers, advisor(s), and history
+    - Optional photo of your team or banner
+ - Events
+    - Calendar of upcoming SkillsUSA events and competitions
+    - Option for non-members to see public events only
+    - (Members can see detailed info after login)
+ - Gallery
+    - Photos and videos from past events
+    - Option to sort by year or competition
+ - Contact
+    - Contact form for new members or questions
+    - Email or link to social media pages
+
+Members Only Pages:
+ - Dashboard
+    - Personalized welcome (e.g., “Welcome, Preston!”)
+    - Overview of unread messages, upcoming events, and announcements
+ - Announcements / Messages Feed
+    - Advisors and officers can post announcements
+    - Members can react or comment (optional)
+    - Push or email notifications for new posts
+ - Private Messaging / Chat
+    - One-on-one or group messaging
+    - Advisors can send mass messages to groups (e.g., “All Competitors” or “Leadership Team”)
+ - Event Management Page
+    - Members can RSVP or mark attendance
+    - Advisors can create/edit events
+    - Option to upload files like permission slips, itineraries, etc.
+ - Media Upload Page
+    - Members upload photos and videos from events
+    - Advisors approve uploads before public display (optional moderation)
+ - Member Directory / Profile Page
+    - List of members with basic info and SkillsUSA role
+    - Personal profile (photo, events participated in, contact info)
+ - Admin Panel (Advisors & Officers Only)
+    - Manage users (add/remove members)
+    - Approve uploads and posts
+    - Send mass messages or announcements
+    - Review analytics (site activity, member engagement)
+
+Optional / Nice-to-Have Pages
+
+If you want to expand later:
+
+Resources Page
+
+Competition guides, study materials, forms, and links
+
+Achievements / Awards Page
+
+Showcase medals, recognitions, or chapter accomplishments
+
+Feedback / Suggestion Box
+
+Members can submit ideas or feedback anonymously
+
+Login / Register / Forgot Password
+
+Secure authentication pages for members
+
