@@ -1,0 +1,15 @@
+Website/App Idea
+
+Name:Somerset SkillsUSA Activities Tracker
+
+Features:
+ - Event Calander
+ - Announcements
+ - SkillsUSA Resources
+ - Event Photos & Videos
+ - Competition Results
+
+Code Features:
+ - Accounts
+ - Custom Groups
+ - Notifications
